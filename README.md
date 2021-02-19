@@ -3,8 +3,8 @@ docker-mysql57
 
 # RUN
 
-docker-compose.yml
+docker-compose up -d
 
-# URL
+# URL ADMINER
 
 http://localhost:8080
