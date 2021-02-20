@@ -1,5 +1,5 @@
-# docker-mysql57
-docker-mysql57
+# docker-mysql57-adminer
+docker-mysql57-adminer
 
 # RUN
 
