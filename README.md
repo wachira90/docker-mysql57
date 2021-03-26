@@ -1,10 +1,10 @@
 # docker-mysql57-adminer
 docker-mysql57-adminer
 
-# RUN
+# run
 
 docker-compose up -d
 
-# URL ADMINER
+# URL Adminer
 
 http://localhost:8080
