@@ -7,4 +7,6 @@ docker-compose up -d
 
 # URL Adminer
 
-http://localhost:8080
+http://localhost:8081
+
+# mysqlport 3366
