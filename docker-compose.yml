@@ -2,7 +2,8 @@ version: '3.3'
 
 services:
     dbmysql:
-        image: wachira90/mysql:5.7.23
+        image: wachira90/mysql:5.7.36
+#        image: wachira90/mysql:5.7.23
         container_name: dbmysql
         restart: always
         volumes:
